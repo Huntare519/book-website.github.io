@@ -4,6 +4,7 @@ import FooterText from "./components/Footer";
 import MaterialAuto from "./components/MaterialAuto";
 import "bootstrap/dist/css/bootstrap.min.css";
 
+//this is to test the commit
 function App() {
   return (
     <div>
